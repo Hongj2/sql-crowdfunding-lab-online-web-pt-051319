@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 CREATE TABLE projects (
-=======
-CREATE TABLE project (
->>>>>>> 0fbffbfbae03798e9e63ebf18682f9a5e0604239
 id INTEGER PRIMARY KEY, 
 title TEXT, 
 category INTEGER,
@@ -18,11 +15,7 @@ age INTEGER
 );
 
 
-<<<<<<< HEAD
-CREATE TABLE pledges (
-=======
 CREATE TABLE pledge (
->>>>>>> 0fbffbfbae03798e9e63ebf18682f9a5e0604239
 id INTEGER PRIMARY KEY, 
 amount INTEGER,
 user_id INTEGER,
